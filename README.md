@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Francesco Mauto</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
+- 🔭 I’m currently working as a Full-Stack developer, but I want to become an AI specialist or a Game dev.
+
 - 🌱 I’m currently learning **Unity3D, Angular, Spring and C++ for UE5**
 
 - ⚡ Fun fact **I'm a quiet guy, but after one small talk (or a beer) I will become your best friend**
