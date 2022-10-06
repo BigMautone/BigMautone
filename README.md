@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I'm a quiet guy, but after one small talk (or a beer) I will become your best friend**
 
-- My Game Dev GitHub: <a href="https://github.com/FrankGameDev" target="blank"></a>
+- My Game Dev GitHub: <a href="https://github.com/FrankGameDev"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
