@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Unity3D, Angular, Spring and C++ for UE5**
 
-- ⚡ Fun fact **I'm a quiet guy, but after one small talk (or a beer) I will become your best friend**
-
 - 👨‍💻 My Game Dev GitHub: "https://github.com/FrankGameDev"
 
 <h3 align="left">Connect with me:</h3>
